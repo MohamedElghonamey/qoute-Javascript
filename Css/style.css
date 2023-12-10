@@ -1,0 +1,4 @@
+ button .btn-info:hover{
+    background-color: green;
+    transition: 5s all;
+}
